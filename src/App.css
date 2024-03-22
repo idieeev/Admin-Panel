@@ -1,0 +1,26 @@
+/* .tr:focus{
+  background: white;
+  color: black;
+} */
+.tr:hover{
+  .text{
+    color: black;
+  }
+  .icon{
+    color: black;
+  }
+}
+/* .tr:focus-visible{
+  background-color: white;
+  color: #000;
+  .text{
+    color: black;
+  }
+  .icon{
+    color: black;
+  }
+} */
+.check{
+    zoom: 1.5;
+    accent-color: green;
+}
